@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente trabalho com backend
-- 🌱 Estou estudando VueJS
+- 🔭 Atualmente desenvolvedora Full-Stack
+- 🌱 Estudante do 4º semestre de Engenharia de Computação
 - 😄 Pronouns: ela/dela
 
 <div align="center">
