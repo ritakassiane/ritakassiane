@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente desenvolvedora Full-Stack
-- 🌱 Estudante do 4º semestre de Engenharia de Computação
+- 🌱 Estudante do 6º semestre de Engenharia de Computação
 - 😄 Pronouns: ela/dela
 
 <div align="center">
