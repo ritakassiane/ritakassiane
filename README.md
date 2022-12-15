@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Atualmente desenvolvedora Full-Stack
-- 🌱 Estudante do 6º semestre de Engenharia de Computação
-- 😄 Pronouns: ela/dela
+- 🔭 Full-Stack Developer
+- 🌱 Computer Engineering student
+- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/ritakassiane">
