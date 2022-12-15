@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Full-Stack Developer
+- 💻 Full-Stack Developer
 - 🌱 Computer Engineering student
 - 😄 Pronouns: she/her
 
