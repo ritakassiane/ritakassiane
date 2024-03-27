@@ -4,7 +4,6 @@
 
 - 💻 Full-Stack Developer
 - 🌱 Computer Engineering student
-- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/ritakassiane">
